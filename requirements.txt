@@ -1,6 +1,0 @@
-joblib
-pandas
-pickle
-streamlit
-seaborn
-matplotlib
